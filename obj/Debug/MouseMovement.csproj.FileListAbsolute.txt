@@ -1,0 +1,9 @@
+C:\Users\habell\source\repos\MouseMovement\bin\Debug\MouseMovement.exe.config
+C:\Users\habell\source\repos\MouseMovement\bin\Debug\MouseMovement.exe
+C:\Users\habell\source\repos\MouseMovement\bin\Debug\MouseMovement.pdb
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.csprojAssemblyReference.cache
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.Form1.resources
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.Properties.Resources.resources
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.csproj.GenerateResource.cache
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.exe
+C:\Users\habell\source\repos\MouseMovement\obj\Debug\MouseMovement.pdb
